@@ -2,3 +2,4 @@
 frontend : react js
 api : express js
 backend : mysql
+Aplikasi: website
